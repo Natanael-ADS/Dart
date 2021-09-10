@@ -26,10 +26,6 @@ FunctionTarget? _nameToFunctionTarget(String name) {
       return FunctionTarget.http(
         function_library.function,
       );
-    case 'Teste':
-      return FunctionTarget.http(
-        function_library.Teste,
-      );
     default:
       return null;
   }

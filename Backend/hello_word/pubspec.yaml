@@ -10,6 +10,7 @@ environment:
 dependencies:
   functions_framework: ^0.4.0
   shelf: ^1.0.0
+  shelf_router: ^1.1.1
 
 
 dev_dependencies:
